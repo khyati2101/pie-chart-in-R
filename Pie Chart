@@ -1,3 +1,4 @@
 a<-c(2,10,13,18,21,24)
 k<-c(8,15,23,28,31,20)
-pie(a,k,clockwise=TRUE,radius=0.8,main="haha")
+
+pie(a,k,clockwise=TRUE,radius=0.8,main="visual representation")
